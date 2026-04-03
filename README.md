@@ -1,5 +1,7 @@
 # TIL
 jeonghyeon0819 TIL
 
-BOJ = 백준
-백준은 이름을 Main으로 해야한다.
+## 📂 BOJ (Baekjoon Online Judge)
+백준 알고리즘 문제 풀이를 정리한 공간입니다. <br>
+- 문제 풀이 과정 기록
+- - 알고리즘 유형별 정리
