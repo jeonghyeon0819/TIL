@@ -12,10 +12,8 @@ public class JAVA_01_02 {
 		
 		
 		int a; // 변수 선언 : 데이터를 담을 그릇을 만든다.
-		a = 20; // 변수 초기화 : 그릇 안에 데이터를 넣는다.
+		a = 10; // 변수 초기화 : 그릇 안에 데이터를 넣는다.
 		
-		System.out.println(a);
-		System.out.println(a);
 		System.out.println(a);
 	
 		
@@ -27,6 +25,14 @@ public class JAVA_01_02 {
 		// System.out.println(a); 는 변수에 저장되어 있는 값을 읽는 것이다.
 		// 변수의 값은 반복해서 읽을 수 있다.
 		// 변수의 값을 읽는다고 값이 없어지는 것이 아니다.
+		
+		
+		a = 50;
+		System.out.println(a);
+		
+		
+		// 자바는 위에서부터 실행이 되기에 10이 먼저 출력되고 그 다음 50이 출력이 된다.
+		// 이때 a는 50으로 바뀐다. 변수의 값이 변경되었다.
 		
 		
 	}
