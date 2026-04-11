@@ -17,7 +17,6 @@ jeonghyeon0819 TIL
 <details>
 <summary> 1단계 입출력과 사칙연산</summary>
 
-### 
 - BOJ_2557_Hello World
 - BOJ_1000_A+B
 - BOJ_1001_A-B
@@ -36,7 +35,6 @@ jeonghyeon0819 TIL
 <details>
 <summary> 2단계 조건문</summary>
 
-###
 - BOJ_
 - BOJ_
 
