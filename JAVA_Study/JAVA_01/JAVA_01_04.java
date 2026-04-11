@@ -1,3 +1,4 @@
+package java_01_f;
 
 public class JAVA_01_04 {
 	

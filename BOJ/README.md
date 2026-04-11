@@ -27,7 +27,7 @@ jeonghyeon0819 TIL
 - [BOJ_18108_1998년생인 내가 태국에서는 2541년생?!] (https://www.acmicpc.net/problem/18108)
 - [BOJ_10430_나머지] (https://www.acmicpc.net/problem/10430)
 - [BOJ_2588_곱셈] (https://www.acmicpc.net/problem/2588)
-- [BOJ_]
+- [BOJ_11382_꼬마 정민] (https://www.acmicpc.net/problem/11382)
 - [BOJ_]
 - [BOJ_]
 </details>
