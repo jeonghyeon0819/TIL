@@ -15,7 +15,7 @@ jeonghyeon0819 TIL
 
 ## 🌱 성장 기록
 <details>
-<summary> 1단계 입출력과 사칙연산 </summary>
+<summary> 1단계 입출력과 사칙연산 (진행 중) </summary>
 
 - [BOJ_2557_Hello World] (https://www.acmicpc.net/problem/2557)
 - [BOJ_1000_A+B] (https://www.acmicpc.net/problem/1000)
