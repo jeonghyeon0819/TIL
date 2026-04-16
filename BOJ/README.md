@@ -29,7 +29,7 @@ jeonghyeon0819 TIL
 - [BOJ_2588_곱셈] (https://www.acmicpc.net/problem/2588)
 - [BOJ_11382_꼬마 정민] (https://www.acmicpc.net/problem/11382)
 - [BOJ_10171_고양이] (https://www.acmicpc.net/problem/10171)
-- [BOJ_]
+- [BOJ_10172_개] (https://www.acmicpc.net/problem/10172)
 </details>
 
 <details>
