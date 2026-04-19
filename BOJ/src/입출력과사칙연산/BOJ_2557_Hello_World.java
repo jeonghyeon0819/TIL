@@ -1,4 +1,4 @@
-package Input_Output;
+package 입출력과사칙연산;
 
 public class BOJ_2557_Hello_World {
 	
