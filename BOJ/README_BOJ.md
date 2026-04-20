@@ -36,8 +36,8 @@ jeonghyeon0819 TIL
 <summary> 2단계 조건문 </summary>
 
 - [BOJ_1330_두수비교하기] (https://www.acmicpc.net/problem/1330)
-- [BOJ_9498_시험성적]
-- [BOJ_2753_윤년]
+- [BOJ_9498_시험성적] (https://www.acmicpc.net/problem/9498)
+- [BOJ_2753_윤년] (https://www.acmicpc.net/problem/2753)
 - [BOJ_14681_사분면고르기]
 - [BOJ_2884_알람시계]
 - [BOJ_2525_오븐시계]
