@@ -16,11 +16,11 @@ public class BOJ_9498_시험성적 {
 		
 		if (num >= 90) {
 			System.out.println("A");
-		} else if (num > 80 && num < 89) {
+		} else if (num >= 80) {
 			System.out.println("B");
-		} else if (num > 70 && num < 79) {
+		} else if (num >= 70) {
 			System.out.println("C");
-		} else if (num > 60 && num < 69) {
+		} else if (num >= 60) {
 			System.out.println("D");
 		} else {
 			System.out.println("F");
